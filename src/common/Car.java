@@ -3,7 +3,7 @@
  * raymond.zhang.us@gmail.com
  * Jan 19, 2019
  */
-package patterns.factory_pattern;
+package common;
 
 public interface Car
 {

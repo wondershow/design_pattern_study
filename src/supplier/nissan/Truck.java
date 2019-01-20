@@ -1,9 +1,11 @@
 /**
  * Author: Lei Zhang
  * raymond.zhang.us@gmail.com
- * Jan 19, 2019
+ * Jan 20, 2019
  */
-package patterns.factory_pattern;
+package supplier.nissan;
+
+import common.Car;
 
 public class Truck implements Car
 {
@@ -11,7 +13,7 @@ public class Truck implements Car
 	@Override
 	public void drive()
 	{
-		System.out.println("Truck is running");
+		System.out.println("Nissan truck is running");
 	}
 
 }

@@ -5,7 +5,9 @@
  */
 package patterns.factory_pattern;
 
-
+import common.Car;
+import supplier.toyota.Sedan;
+import supplier.toyota.Truck;
 
 public class CarFactory
 {

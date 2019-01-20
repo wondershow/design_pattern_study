@@ -5,6 +5,8 @@
  */
 package patterns.factory_pattern;
 
+import common.Car;
+
 public class PatternDemo
 {
 
